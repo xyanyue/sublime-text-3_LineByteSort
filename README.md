@@ -23,7 +23,7 @@ view.run_command('linebytesort')
 { "command": "linebytesort", "caption": "按字节数排序" },
 ```
 
-3、自行添加各种菜单已经快捷键
+3、自行添加各种菜单以及快捷键
 ------
   
 
