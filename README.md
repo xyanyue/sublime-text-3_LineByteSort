@@ -2,6 +2,7 @@
 sublime 按行字节数排序
 ==========
 路径：
+--------
   Windows: %APPDATA%Sublime Text 3
   
   OS X: ~/Library/Application Support/Sublime Text 3
