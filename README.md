@@ -1,9 +1,11 @@
 # sublime-text-3_LineByteSort
 sublime 按行字节数排序
 ==========
-
+路径：
   Windows: %APPDATA%Sublime Text 3
+  
   OS X: ~/Library/Application Support/Sublime Text 3
+  
   Linux: ~/.config/sublime-text-3
 
 1、命令运行
