@@ -15,11 +15,11 @@ view.run_command('linebytesort')
 ```
 2、右键菜单
 --------
-  可以修改packages下Context.sublime-menu文件 添加 
+  可以修改packages下Context.sublime-menu文件 添加 右键菜单
 ```Json
 { "command": "linebytesort", "caption": "按字节数排序" },
 ```
-  右键菜单就有了
+
 3、自行添加各种菜单已经快捷键
 ------
   
